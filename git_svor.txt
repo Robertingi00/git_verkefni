@@ -1,4 +1,4 @@
-Git spurningar og svör
+﻿Git spurningar og svör
 
 1. Hvað gera eftirfarandi Linux skipanir?
 	cd      change directory. Breytir um staðsetningu
@@ -8,8 +8,8 @@ Git spurningar og svör
 	mkdir	Býr til möppu
 
 2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
-	git clone
-	git log
-	git status
-	git diff
-	git checkout
+	git clone     vistar git repository frá öðrum stað
+	git log       Sýnir öll commits af branchi 
+	git status    Sýnir hvaða breytingar hafa verið gerðar á skali 
+	git diff      Ber saman tvær greinar eða skjöl
+	git checkout  skiptir í nítt branch
