@@ -18,3 +18,20 @@
 	a) git diff                    sýnir mun a hlutunum sem maður er að vinna með                     
 	b) git diff --staged           Sýnir öll skref í breytingu 
 	c) git diff commit1 commit2    Sýnir mun á milli tveggja commits 
+
+4. Hvað er útgáfustýring (e.version control)? E.version control heldur um breytingar. Það gerir kleypt ef einhverjar villur koma að fara til baka og finna verkefnið sem var ekki með villum
+
+5. Hverjir eru helstu kostir við að nota GIT? Git leyfir hópi af fólki að vinna samann og bara í einni möppu. Git tekur lika upp alla aðgerðir og getur látið vita hver gerði hvað.
+
+6. Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu? það drepur eingan að nota commit. svo notaðu það nóg og aft svo verkefnið sem þú ert búinn að gera eyðist ekki og ef þú ert kominn með einhvað sem virkar er gott að nota það.
+
+7. Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+Working directory er staðurinn þar sem öll skölin eru geymd.
+Staging area er þar sem þú ert að vinna áður en þú gerir commmit.
+Repository þar geymist allt historyið.
+
+8. Hvenær er sniðugt að nota greinar (branches)? Þegar maður er að vinna á hluti sem er ekki tilbuinn. Þú vinnur þá á branches svæðinu og þegar hann er alveg tilbuinn færiru hann inn á masterinn.
+
+9. Hver fann upp GIT? Linus Torvalds
+
+
