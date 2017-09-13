@@ -23,3 +23,4 @@
 
 5. Hverjir eru helstu kostir við að nota GIT? Git leyfir hópi af fólki að vinna samann og bara í einni möppu. Git tekur lika upp alla aðgerðir og getur látið vita hver gerði hvað.
 
+6. Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu? það drepur eingan að nota commit. svo notaðu það nóg og aft svo verkefnið sem þú ert búinn að gera eyðist ekki og ef þú ert kominn með einhvað sem virkar er gott að nota það.
