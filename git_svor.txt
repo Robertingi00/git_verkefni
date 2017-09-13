@@ -33,4 +33,4 @@ Repository þar geymist allt historyið.
 8. Hvenær er sniðugt að nota greinar (branches)? Þegar maður er að vinna á hluti sem er ekki tilbuinn. Þú vinnur þá á branches svæðinu og þegar hann er alveg tilbuinn færiru hann inn á masterinn.
 
 
-
+-Róbert Ingi Hálfdanarson 
