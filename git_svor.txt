@@ -3,6 +3,13 @@ Git spurningar og svör
 1. Hvað gera eftirfarandi Linux skipanir?
 	cd      change directory. Breytir um staðsetningu
 	cd ~    Fer á heimasvæði notandann
-	ls		Sýnir skjöl/folder í folderinu sem maður er í
+	ls	    Sýnir skjöl/folder í folderinu sem maður er í
 	pwd     Sýnir staðsetninguna manns
 	mkdir	Býr til möppu
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone
+	git log
+	git status
+	git diff
+	git checkout
