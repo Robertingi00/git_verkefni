@@ -32,5 +32,9 @@ Repository þar geymist allt historyið.
 
 8. Hvenær er sniðugt að nota greinar (branches)? Þegar maður er að vinna á hluti sem er ekki tilbuinn. Þú vinnur þá á branches svæðinu og þegar hann er alveg tilbuinn færiru hann inn á masterinn.
 
+9.	Hver fann upp GIT? Linus Torvalds
+
+10.	Hvar er GIT helst notað? Það er mest notað sem hópvinnu verkefæri til að halda um versions o.s.frv.
+
 
 -Róbert Ingi Hálfdanarson 
